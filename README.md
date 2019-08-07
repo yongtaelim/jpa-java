@@ -8,10 +8,10 @@
 mysql setting on local host
 
 ## properties
-spring.datasource.username=root
-spring.datasource.password=sample
-spring.datasource.url=jdbc:mysql://localhost:3306/jpaTest?characterEncoding=UTF-8&serverTimezone=UTC
-spring.datasource.driver-class-name=com.mysql.jdbc.Driver
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.properties.hibernate.format_sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
+- spring.datasource.username=root
+- spring.datasource.password=sample
+- spring.datasource.url=jdbc:mysql://localhost:3306/jpaTest?characterEncoding=UTF-8&serverTimezone=UTC
+- spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+- spring.jpa.hibernate.ddl-auto=update
+- spring.jpa.properties.hibernate.format_sql=true
+- spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
