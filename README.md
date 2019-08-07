@@ -1,11 +1,11 @@
 # jpa-java
 
 ## Goals
-1. jpa를 이용하여 Animal, Person 테이블 생성
-2. jpa를 이용하여 select, insert, update, delete 수행
+- jpa를 이용하여 Animal, Person 테이블 생성
+- jpa를 이용하여 select, insert, update, delete 수행
 
 ## Pre-operation
-mysql setting on local host
+- mysql setting on local host
 
 ## properties
 - spring.datasource.username=root
