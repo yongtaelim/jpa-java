@@ -9,7 +9,7 @@ mysql setting on local host
 
 ## properties
 spring.datasource.username=root
-spring.datasource.password=ibizsoft0417!
+spring.datasource.password=sample
 spring.datasource.url=jdbc:mysql://localhost:3306/jpaTest?characterEncoding=UTF-8&serverTimezone=UTC
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=update
